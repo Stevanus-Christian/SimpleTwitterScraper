@@ -15,6 +15,7 @@ cd c:\path\to\program
 <p align="center">
   <img src="https://github.com/Stevanus-Christian/SimpleTwitterScraper/blob/main/elevated.jpg">
 </p>
+
 - Run program with:
 ```
 python scrap.py
