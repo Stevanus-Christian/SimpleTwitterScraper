@@ -11,7 +11,8 @@ pip install tweepy
 ```
 cd c:\path\to\program
 ```
-- Enter your API key that has gained access to Twitter API v2 Elevated Access
+- Get your Twitter API key [here](https://developer.twitter.com/en/portal/petition/essential/basic-info).
+- Enter your Twitter API key that has gained access to Twitter API v2 Elevated Access
 <p align="center">
   <img src="https://github.com/Stevanus-Christian/SimpleTwitterScraper/blob/main/elevated.jpg">
 </p>
